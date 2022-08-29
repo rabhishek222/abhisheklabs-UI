@@ -178,7 +178,7 @@ function createWindow(settings) {
     let {x, y, width, height} = display.bounds;
     width++; height++;
     win = new BrowserWindow({
-        title: "eDEX-UI",
+        title: "AbhishekLabs-UI",
         x,
         y,
         width,
